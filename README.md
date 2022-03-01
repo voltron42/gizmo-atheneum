@@ -1,2 +1,2 @@
 # gizmo-atheneum
-Let JavaScript be JavaScript
+Let JavaScript Be JavaScript
